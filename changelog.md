@@ -6,19 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [BETA]
 
-## [0.0.3] - 2021-1-3
+## [0.0.3] - 2021-1-5
 ### Added
+- old damage noise
+- animated xp rainbow if using optifine
+- smaller shield
+- infested stone warning
+
 
 ### Fixed
+- Dark Mode
+- clouds
 
 ### Need to Fix
 - tnt
 - soul torch
 - wheat
-- clouds
 - death star
 - sounds
-- animated xp rainbow
+- chests
+- toast
+- update new cal java dlc once this works more
 
 ## [0.0.2] - 2021-1-2
 ### Added
